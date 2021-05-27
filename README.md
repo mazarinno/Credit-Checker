@@ -1,4 +1,2 @@
-# Credit-Checker
-Finds what type of credit card you have based on the number
-
-This is one of the first projects I made in C back in 2020.
+# CS50 Course 2020
+These are the projects I submitted in 2020 to the CS50 Introduction to Computer Science course.
