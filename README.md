@@ -3,7 +3,7 @@ These are the projects I submitted in 2020 to the CS50 Introduction to Computer 
 
 1. [Week One](https://github.com/mazarinno/CS50-Course-2020/tree/main/pset1)
    - [Hello](https://github.com/mazarinno/CS50-Course-2020/blob/main/pset1/hello/hello.c): A simple program which receives a string input and outputs it back.
-   - [Mario](https://github.com/mazarinno/CS50-Course-2020/blob/main/pset1/mario/mario.c): This program takes a number and outputs a pyramid of the same height, though it is not very creative nor dynamic. 
+   - [Mario](https://github.com/mazarinno/CS50-Course-2020/blob/main/pset1/mario/mario.c): This program takes a number and outputs a pyramid of the same height. 
    - [Credit](https://github.com/mazarinno/CS50-Course-2020/blob/main/pset1/credit/credit.c): Receives a credit card number as input and will output back what type of card it is (AMEX, VISA, MC).
 2. [Week Two](https://github.com/mazarinno/CS50-Course-2020/tree/main/pset2)
    - [Readability](https://github.com/mazarinno/CS50-Course-2020/blob/main/pset2/readability/readability.c): Finds the grade level readability score of any text inputted.
